@@ -9,7 +9,7 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kagorora&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Niyonsengaeric" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kagorora&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Kagorora" /></p>
 
 
 
