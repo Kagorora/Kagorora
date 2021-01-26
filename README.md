@@ -24,7 +24,6 @@
 <br>
 <a href="mailto:kagororamaxime@gmail.com?subject=subject&cc=cc@example.com">  <img src="https://img.shields.io/badge/-Gmail-0098D6?style=flat-square&logo=gmail&logoColor=red" alt="website"/></a>
 <br>
-
 <br>
 <a href="https://www.linkedin.com/in/kagorora/">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
 <br>
