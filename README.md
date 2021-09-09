@@ -1,6 +1,6 @@
     Hi there 👋
 
-    I'm Maxime, a Rwandan Fullstack developer, currently living in Kigali, Rwanda.
+    I'm Maxime, a Fullstack developer, Mobile App Developer and UI/UX designer.
 
 <br>
 
